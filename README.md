@@ -1,4 +1,4 @@
-# Automated Data Analysis
+# AnalytIQ | The Automated Data Analysis Tool
 
 A backend service that takes a CSV/Excel file, cleans and analyzes it, and returns an AI-generated summary of the data — without making you wait for the processing to finish.
 
